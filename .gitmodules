@@ -1,0 +1,6 @@
+[submodule "themes/org-collection"]
+	path = themes/org-collection
+	url = https://github.com/fniessen/org-html-themes.git
+[submodule "themes/readthedocs"]
+	path = themes/readthedocs
+	url = https://github.com/digitalcraftsman/hugo-read-the-docs.git

@@ -1,0 +1,13 @@
+---
+title: "Section 01: Introduction to Linux"
+date: 2018-01-15T20:25:53+02:00
+draft: true
+---
+* Installing Linux
+bla bla bla.
+
+** Getting it to work
+bla test.
+
+** Some basic commands
+bla.

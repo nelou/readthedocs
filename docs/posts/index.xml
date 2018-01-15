@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://nelou.github.io/readthedocs/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://nelou.github.io/readthedocs/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://nelou.github.io/readthedocs/posts/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nelou.github.io/readthedocs/posts/main/</guid>
+      <description> &amp;ndash; title: &amp;ldquo;Main&amp;rdquo; date: 2018-01-15T20:22:04+02:00
+draft: true </description>
+    </item>
+    
+  </channel>
+</rss>

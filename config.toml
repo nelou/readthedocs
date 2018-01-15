@@ -1,0 +1,28 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+theme = "readthedocs"
+baseURL = "https://nelou.github.io/readthedocs"
+publishDir = "docs"
+
+[params]
+search = true
+
+name = "Read The Docs"
+license = "Apache 2.0"
+licenselink = ""
+description = ""
+homepage = ""
+tags = ["", ""]
+features = ["", ""]
+min_version = 0.14
+
+[author]
+  name = "Digitalcraftsman"
+  homepage = "https://github.com/digitalcraftsman"
+
+# If porting an existing theme
+[original]
+  name = "Dave Snider & contributors"
+  homepage = "http://www.webhook.com"
+  repo = "https://github.com/snide/sphinx_rtd_theme"
